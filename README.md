@@ -12,12 +12,42 @@ Here are some ideas to get you started:
 
 Those are tutorials I have used when I learn new realm of knowledge (AI security and privacy related), and I recommend it to people who plan to start it, star it if it does help you.
 
-<a href="https://github.com/Billy1900/Awesome-Machine-Learning" align="center"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Awesome-Machine-Learning.png" width="420px" ></a>
-<a href="https://github.com/Billy1900/GNN-Learning-and-Integration" align="center"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/GNN-Learning-and-Integration.png" width="420px" ></a>
+<a href="https://github.com/Billy1900/Awesome-Machine-Learning">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Machine-Learning&theme=material-palenight" />
+</a>
 
-<a href="https://github.com/Billy1900/Awesome-DeepFake-Learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Awesome-DeepFake-Learning.png" width="420px" align="center"></a>
-<a href="https://github.com/Billy1900/Learning-of-Computer-Science"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Learning-of-Computer-Science.png" width="420px" align="center"></a>
+<a href="https://github.com/Billy1900/Awesome-DeepFake-Learning">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-DeepFake-Learning&theme=material-palenight" />
+</a>
 
-<a href="https://github.com/Billy1900/Awesome-Differential-Privacy"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Awesome-Differential-Privacy.png" width="420px" align="center"></a>
-<a href="https://github.com/Billy1900/Privacy-and-Security-issues-in-machine-learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Privacy-and-Security-issues-in-machine-learning.png" width="420px" align="center"></a>
+<a href="https://github.com/Billy1900/GNN-Learning-and-Integration">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=GNN-Learning-and-Integration&theme=material-palenight" />
+</a>
 
+<a href="https://github.com/Billy1900/Learning-of-Computer-Science">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Learning-of-Computer-Science&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Billy1900/Ethereum-tutorial">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Ethereum-tutorial&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Billy1900/Backdoor-Learning">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Backdoor-Learning&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Billy1900/Awesome-Differential-Privacy">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Differential-Privacy&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Billy1900/Privacy-and-Security-issues-in-machine-learning">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Privacy-and-Security-issues-in-machine-learning&theme=material-palenight" />
+</a>
