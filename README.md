@@ -5,16 +5,34 @@
 --->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning, Differential Privacy, DeepFake
-- 🌱 I’m currently learning Machine Learning, Differential Privacy, DeepFake, Blockchain
-- 👯 I’m looking to collaborate on Machine Learning, Differential Privacy, DeepFake
-- 🤔 I’m looking for help with Detection of DeepFake
-- 💬 Ask me about Blockchain, Secure Machine Learning
+- 🔭 I’m currently working broadly on AI security and Privacy.
+- 👯 I’m looking to collaborate on AI security and Privacy, AI finance (like quant), Blockchain.
 - 📫 How to reach me: To see the email address behind my profile on the left.
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Billy1900&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Billy1900&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+Those are tutorials I have used when I learn new realm of knowledge (AI security and privacy related), and I recommend to people who plan to start it, star it if it does help you.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billy1900&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Billy1900/Awesome-Machine-Learning">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Machine-Learning&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/Billy1900/GNN-Learning-and-Integration">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=GNN-Learning-and-Integration&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+
+<a href="https://github.com/Billy1900/Awesome-DeepFake-Learning">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-DeepFake-Learning&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+
+<a href="https://github.com/Billy1900/Learning-of-Computer-Science">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Learning-of-Computer-Science&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/Billy1900/Awesome-Differential-Privacy">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Differential-Privacy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
