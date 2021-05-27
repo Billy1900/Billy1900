@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Billy1900&theme=dracula)
 
-Those are tutorials I have used when I learn new realm of knowledge (AI security and privacy related), and I recommend it to people who plan to start it, star it if it does help you.
+Those are **tutorials** I have wrritten when I learn new realm of knowledge (AI security and privacy related), and I really recommend them to people who plan to start with those, please **star it** if it does help you.
 
 <a href="https://github.com/Billy1900/Awesome-Machine-Learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
