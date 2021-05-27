@@ -10,17 +10,14 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Billy1900&theme=dracula)
 
-Those are tutorials I have used when I learn new realm of knowledge (AI security and privacy related), and I recommend to people who plan to start it, star it if it does help you.
+Those are tutorials I have used when I learn new realm of knowledge (AI security and privacy related), and I recommend it to people who plan to start it, star it if it does help you.
 
-<a href="https://github.com/Billy1900/Awesome-Machine-Learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Awesome-Machine-Learning.png" width="460px"></a>
+<a href="https://github.com/Billy1900/Awesome-Machine-Learning" align="center"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Awesome-Machine-Learning.png" width="450px" ></a>
+<a href="https://github.com/Billy1900/GNN-Learning-and-Integration" align="center"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/GNN-Learning-and-Integration.png" width="450px" ></a>
 
-<a href="https://github.com/Billy1900/GNN-Learning-and-Integration"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/GNN-Learning-and-Integration.png" width="460px"></a>
+<a href="https://github.com/Billy1900/Awesome-DeepFake-Learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Awesome-DeepFake-Learning.png" width="450px" align="center"></a>
+<a href="https://github.com/Billy1900/Learning-of-Computer-Science"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Learning-of-Computer-Science.png" width="450px" align="center"></a>
 
-<a href="https://github.com/Billy1900/Awesome-DeepFake-Learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Awesome-DeepFake-Learning.png" width="460px"></a>
-
-<a href="https://github.com/Billy1900/Learning-of-Computer-Science"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Learning-of-Computer-Science.png" width="460px"></a>
-
-<a href="https://github.com/Billy1900/Awesome-Differential-Privacy"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Awesome-Differential-Privacy.png" width="460px"></a>
-
-<a href="https://github.com/Billy1900/Privacy-and-Security-issues-in-machine-learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Privacy-and-Security-issues-in-machine-learning.png" width="460px"></a>
+<a href="https://github.com/Billy1900/Awesome-Differential-Privacy"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Awesome-Differential-Privacy.png" width="450px" align="center"></a>
+<a href="https://github.com/Billy1900/Privacy-and-Security-issues-in-machine-learning"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/Billy1900/Privacy-and-Security-issues-in-machine-learning.png" width="450px" align="center"></a>
 
