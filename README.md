@@ -6,12 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billy1900&label=Profile%20views&color=ff69b4&style=plastic" alt="billy1900" /> </p>
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working broadly on AI security and Privacy.
 - 👯 I’m looking to collaborate on AI security and Privacy, AI finance (like quant), Blockchain.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Billy1900&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billy1900&show_icons=true&theme=cobalt)
 
 - 👨‍💻 Those are **tutorials** I have wrritten when I learn new realm of knowledge (AI security and privacy related), and I really recommend them to people who plan to start with those, please **star it** if it does help you.
 
