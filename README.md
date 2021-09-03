@@ -57,9 +57,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Learning-With-Noisy-Labels&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/Billy1900/Privacy-and-Security-issues-in-machine-learning">
+<a href="https://github.com/Billy1900/S-P-in-Machine-learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Privacy-and-Security-issues-in-machine-learning&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=S-P-in-Machine-learning&theme=material-palenight" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
