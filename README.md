@@ -52,14 +52,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Differential-Privacy&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/Billy1900/Learning-With-Noisy-Labels">
+<a href="https://github.com/Billy1900/Awesome-Learning-With-Noisy-Labels">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Learning-With-Noisy-Labels&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Learning-With-Noisy-Labels&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/Billy1900/S-P-in-Machine-learning">
+<a href="https://github.com/Billy1900/Awesome-S-P-in-Machine-learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=S-P-in-Machine-learning&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-S-P-in-Machine-learning&theme=material-palenight" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
