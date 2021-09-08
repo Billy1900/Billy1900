@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billy1900&show_icons=true&theme=cobalt)
 
-- 👨‍💻 Those are **tutorials** I have wrritten when I learn new realm of knowledge (AI security and privacy related), and I really recommend them to people who plan to start with those, please **star it** if it does help you.
+- 👨‍💻 Those are **tutorials** I have wrritten when I learn new realm of knowledge (AI security and privacy related), and I really recommend them to people who plan to start with those, please **star it** if it does help you. And I also welcome anyone to help me contribute any projects you like.
 
 <a href="https://github.com/Billy1900/Awesome-Machine-Learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
