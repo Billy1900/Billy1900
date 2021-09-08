@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working broadly on AI security and Privacy.
+- 🔭 I’m currently working broadly on AI for security and Privacy, security and privacy issues in AI.
 - 👯 I’m looking to collaborate on AI security and Privacy, AI finance (like quant), Blockchain.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billy1900&show_icons=true&theme=cobalt)
