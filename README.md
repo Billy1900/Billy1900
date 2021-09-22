@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billy1900&label=Profile%20views&color=ff69b4&style=plastic" alt="billy1900" /> </p>
 
-
+<img src="1.gif"></img>
 
 Here are some ideas to get you started:
 
