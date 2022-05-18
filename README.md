@@ -13,58 +13,59 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working broadly on AI for security and Privacy, security and privacy issues in AI.
 - 👯 I’m looking to collaborate on AI security and Privacy, AI finance (like quant), Blockchain.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=billy1900&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats-billy1900.vercel.app/api?username=billy1900&show_icons=true&theme=merko)
+
 
 - 👨‍💻 Those are **tutorials** I have wrritten when I learn new realm of knowledge (AI security and privacy related), and I really recommend them to people who plan to start with those, please **star it** if it does help you. And I also welcome anyone to help me contribute any projects you like.
 
 <a href="https://github.com/Billy1900/Awesome-Machine-Learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Machine-Learning&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Machine-Learning&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/Awesome-DeepFake-Learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-DeepFake-Learning&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-DeepFake-Learning&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/GNN-Learning-and-Integration">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=GNN-Learning-and-Integration&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=GNN-Learning-and-Integration&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/Learning-of-Computer-Science">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Learning-of-Computer-Science&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Learning-of-Computer-Science&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/Ethereum-tutorial">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Ethereum-tutorial&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Ethereum-tutorial&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/Backdoor-Learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Backdoor-Learning&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Backdoor-Learning&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/Awesome-Differential-Privacy">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Differential-Privacy&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Differential-Privacy&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/Awesome-Learning-With-Noisy-Labels">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Learning-With-Noisy-Labels&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Learning-With-Noisy-Labels&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/Awesome-S-P-in-Machine-learning">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-S-P-in-Machine-learning&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-S-P-in-Machine-learning&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/Awesome-AI-for-cybersecurity">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Billy1900&repo=Awesome-AI-for-cybersecurity&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-AI-for-cybersecurity&theme=swift" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
