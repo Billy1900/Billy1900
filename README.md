@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nanqing Luo (Billy)
+### Hi there 👋 I'm Billy
 
 <!--
 **Billy1900/Billy1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
