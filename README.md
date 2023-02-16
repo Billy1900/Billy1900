@@ -43,24 +43,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Ethereum-tutorial&theme=swift" />
 </a>
 
-<a href="https://github.com/Billy1900/Backdoor-Learning">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Backdoor-Learning&theme=swift" />
-</a>
-
 <a href="https://github.com/Billy1900/Awesome-Differential-Privacy">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Differential-Privacy&theme=swift" />
 </a>
 
-<a href="https://github.com/Billy1900/Awesome-Learning-With-Noisy-Labels">
+<a href="https://github.com/Billy1900/Awesome-Phd-advice">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Learning-With-Noisy-Labels&theme=swift" />
-</a>
-
-<a href="https://github.com/Billy1900/Awesome-S-P-in-Machine-learning">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-S-P-in-Machine-learning&theme=swift" />
+  <img align="center" src="https://github-readme-stats-billy1900.vercel.app/api/pin/?username=Billy1900&repo=Awesome-Phd-advice&theme=swift" />
 </a>
 
 <a href="https://github.com/Billy1900/Awesome-AI-for-cybersecurity">
