@@ -11,7 +11,7 @@
 - 🔭 I’m currently working broadly on AI for security and Privacy, security and privacy issues in AI, and Blockchain.
 
 ## What's New!
-- [11/2023] I joined CAMEL-AI to work on Embedding Retriever, Memory section of LLM Agent.
+- [11/2023] I joined CAMEL-AI to work on RAG, Memory section of LLM Agent.
 - [10/2023] Our TCT project has received $15,000 grants from Covalent.
 - [09/2023] I joined FuzzLand as security researcher focusing on DARPA AIxCC.
 - [09/2023] We have made our TCT mechanism code public to ensure safety features of Blockchain system.
