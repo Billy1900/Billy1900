@@ -11,6 +11,8 @@
 - 🔭 I’m interested in System Security and HFT Quant.
 
 ## What's New!
+- [04/2024] I was invited to attend Cubist Hackathon by Point72.
+- [04/2024] I was invited to attend Schonfeld Early Engagement (PhD) Summit.
 - [01/2024] I was invited to attend Five Rings Winter Micro Reception.
 - [11/2023] I joined CAMEL-AI to work on RAG, Memory section of LLM Agent.
 - [10/2023] Our TCT project has received $15,000 grants from Covalent.
