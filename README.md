@@ -11,6 +11,7 @@
 - 🔭 I’m interested in System Security and HFT Quant.
 
 ## What's New!
+- [07/2024] I was invited to attend Tianyan Capital Open Day.
 - [04/2024] I was invited to attend Cubist Hackathon by Point72 and got 1st place.
 - [04/2024] I was invited to attend Schonfeld Early Engagement (PhD) Summit and got 2nd place.
 - [01/2024] I was invited to attend Five Rings Winter Micro Reception.
