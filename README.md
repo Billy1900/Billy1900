@@ -19,8 +19,8 @@
 - sandbox [cuckoo3](https://github.com/cert-ee/cuckoo3)
 
 **Blockchain**
-- [Ethereum code analysis (EN), <1.0.0](https://github.com/Billy1900/Ethereum-tutorial-EN)
-- [Ethereum code analysis (CN), <1.0.0](https://github.com/Billy1900/Ethereum-tutorial)
+- [Ethereum code analysis (EN), for ETH <1.0.0](https://github.com/Billy1900/Ethereum-tutorial-EN)
+- [Ethereum code analysis (CN), for ETH <1.0.0](https://github.com/Billy1900/Ethereum-tutorial)
 
 **Quant Competitions**
 - [Jane Street Real-Time Market Data Forecasting 2025](https://github.com/Billy1900/JS-Kaggle-2025)
