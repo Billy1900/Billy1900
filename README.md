@@ -15,8 +15,9 @@
 - [Gepetto](https://github.com/JusticeRage/Gepetto)
 - [Monocle](https://github.com/arphanetx/Monocle)
 
-**Computer System Related**
-- sandbox [cuckoo3](https://github.com/cert-ee/cuckoo3)
+**Sandbox**
+- [cuckoo3](https://github.com/cert-ee/cuckoo3): malware analysis sandbox
+- [Arbor](https://github.com/Billy1900/Arbor): sandbox for LLM Agent
 
 **Blockchain**
 - [Ethereum code analysis (EN), for ETH <1.0.0](https://github.com/Billy1900/Ethereum-tutorial-EN)
