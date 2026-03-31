@@ -14,6 +14,7 @@
 - [Camel agent](https://github.com/camel-ai)
 - [Gepetto](https://github.com/JusticeRage/Gepetto)
 - [Monocle](https://github.com/arphanetx/Monocle)
+- [Midas](https://github.com/Billy1900/Midas): LLM Agent for Alpha Features Construction
 
 **Sandbox**
 - [cuckoo3](https://github.com/cert-ee/cuckoo3): malware analysis sandbox
