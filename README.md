@@ -15,6 +15,7 @@
 - [Gepetto](https://github.com/JusticeRage/Gepetto)
 - [Monocle](https://github.com/arphanetx/Monocle)
 - [Midas](https://github.com/Billy1900/Midas): LLM Agent for Alpha Features Construction
+- [s2sp](https://github.com/s2sp-protocol/s2sp-protocol.github.io): Server-to-Server (S2SP) data transfer protocol for MCP (Model Context Protocol).
 
 **Sandbox**
 - [cuckoo3](https://github.com/cert-ee/cuckoo3): malware analysis sandbox
