@@ -16,7 +16,7 @@
 - [Monocle](https://github.com/arphanetx/Monocle): LLM agent for binary reverse engineering.
 - [Midas](https://github.com/Billy1900/Midas): LLM Agent for Alpha Features Construction.
 - [Arbor](https://github.com/Billy1900/Arbor): coding execution sandbox for LLM Agent / Agent Teams.
-- [s2sp](https://github.com/s2sp-protocol/s2sp-protocol.github.io): Server-to-Server (S2SP) data transfer protocol for MCP (Model Context Protocol).
+- [s2sp](https://github.com/mcp-sd/mcp-sd.github.io): Server-to-Server (S2SP) data transfer protocol for MCP (Model Context Protocol).
 - [Mneme](https://github.com/Billy1900/mneme): A Rust memory system for autonomous AI agents built from cognitive neuroscience.
 
 **Computer Security**
